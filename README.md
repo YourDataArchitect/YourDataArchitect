@@ -1,4 +1,6 @@
-<p align="right"> <img src="https://t4.ftcdn.net/jpg/04/85/84/21/360_F_485842143_RGw5hFbGfeJFzB63W6r25Pv7VY56fclw.jpg" alt="yourdataarchitect"  width="1300" height="500"/> </p>
+<p align="right">
+  <img src="https://github.com/YourDataArchitect/YourDataArchitect/blob/main/Header.png?raw=true" alt="yourdataarchitect" width="1300" height="500"/>
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Ramez Rasmy</h1>
