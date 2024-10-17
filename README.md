@@ -1,7 +1,5 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1313/1*ebmDMPXU9xqgwqdob0XbKQ.gif "yourdataarchitect")](https://yourwebsite.com)
 
-<a href="https://yourwebsite.com">
-  <img src="https://miro.medium.com/v2/resize:fit:1313/1*ebmDMPXU9xqgwqdob0XbKQ.gif" alt="yourdataarchitect" width="800" height="450">
-</a>
 
 
 <h1 align="center">Hi 👋, I'm Ramez Rasmy</h1>
