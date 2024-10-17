@@ -1,5 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1313/1*ebmDMPXU9xqgwqdob0XbKQ.gif "yourdataarchitect")](https://yourwebsite.com)
-
+<p align="right"> <img src="https://t4.ftcdn.net/jpg/04/85/84/21/360_F_485842143_RGw5hFbGfeJFzB63W6r25Pv7VY56fclw.jpg" alt="yourdataarchitect"  width="1300" height="500"/> </p>
 
 
 <h1 align="center">Hi 👋, I'm Ramez Rasmy</h1>
