@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <img src="https://github.com/YourDataArchitect/YourDataArchitect/blob/main/Header.png?raw=true" alt="yourdataarchitect" width="800" height="400"/>
 </p>
 
