@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://github.com/YourDataArchitect/YourDataArchitect/blob/main/Header.png?raw=true" alt="yourdataarchitect" width="1300" height="500"/>
+  <img src="https://github.com/YourDataArchitect/YourDataArchitect/blob/main/Header.png?raw=true" alt="yourdataarchitect" width="1100" height="300"/>
 </p>
 
 
