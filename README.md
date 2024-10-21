@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **Many different projects across various industries. These projects include developing web scrapers, building data pipelines, Building and Feeding Databases and integrating APIs to solve complex data challenges.**
+- 🔭 I’m currently working on **Many different projects across various industries. These projects include developing web scrapers, building data pipelines, Feeding Databases With required Data and integrating APIs to solve complex data challenges.**
 
 - 🌱 I’m currently learning **Cloud Computing**
 
