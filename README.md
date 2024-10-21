@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ramez Rasmy</h1>
-<h3 align="left">👨‍💻 About Me Hello! I'm Ramez, a passionate Data Engineer with over 3 years of freelance experience. I specialize in building robust data pipelines, automating tasks, and extracting insights from data. My expertise ranges from designing databases to creating custom web scraping solutions. As a Top Rated Freelancer on Upwork with a 100% success rate, I have successfully completed numerous projects for clients across various industries, including healthcare, property markets, and e-commerce. I'm always seeking new challenges and long-term collaborations.</h3>
+<h3 align="left">👨‍💻 a passionate Data Engineer with over 3 years of freelance experience. I specialize in building robust data pipelines, automating tasks, and extracting insights from data. My expertise ranges from designing databases to creating custom web scraping solutions. As a Top Rated Freelancer on Upwork with a 100% success rate, I have successfully completed numerous projects for clients across various industries, including healthcare, property markets, and e-commerce. I'm always seeking new challenges and long-term collaborations.</h3>
 
 
 
