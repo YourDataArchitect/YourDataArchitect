@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/YourDataArchitect/YourDataArchitect/blob/main/Header.png?raw=true" alt="yourdataarchitect" width="800" height="400"/>
-</p>
 
 
 <h1 align="left">Hello I'm Ramez Rasmy 👋</h1>
